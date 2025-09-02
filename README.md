@@ -38,9 +38,6 @@
 </p>
 ---
 
-### 🌟 Featured Projects
-- [🚀 My Portfolio Website](https://github.com/JimmyHidayat/portfolio)  
-- [🎮 Game Top-up Clone](https://github.com/JimmyHidayat/topup-clone)
 
 ---
 
