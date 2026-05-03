@@ -31,9 +31,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JimmyHidayat&theme=onedark&margin-w=10&margin-h=10&no-frame=true" />
 </p>
-
----
-
-📫 **Reach me at:**  
-[![Linkedin Badge](https://img.shields.io/badge/-JimmyHidayat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Gmail Badge](https://img.shields.io/badge/-jimmyhidayat@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jimmy.hidayat.unpas.ti@gmail.com)
