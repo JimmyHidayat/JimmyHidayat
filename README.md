@@ -1,7 +1,6 @@
 
 
 ## 👨‍💻 About Me  
-- 🎓 Student at **Pasundan University Bandung**  
 - 💻 Interested in **Web Development & Backend Engineering**  
 - 🚀 Currently learning **Laravel, TailwindCSS, and JavaScript**  
 - 🌱 Always improving my **problem-solving & system design skills**  
