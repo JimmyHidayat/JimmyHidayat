@@ -2,7 +2,6 @@
 
 ## 👨‍💻 About Me  
 - 💻 Interested in **Web Development & Backend Engineering**  
-- 🚀 Currently learning **Laravel, TailwindCSS, and JavaScript**  
 - 🌱 Always improving my **problem-solving & system design skills**  
 
 ---
